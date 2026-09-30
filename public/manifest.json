@@ -1,0 +1,19 @@
+{
+  "name": "NEC Portal — Nandha Engineering College",
+  "short_name": "NEC Portal",
+  "description": "Nandha Engineering College Verified Student Achievements & Co-Curricular Management Portal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0284c7",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/nec-logo.png",
+      "sizes": "270x148",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
